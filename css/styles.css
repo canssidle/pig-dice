@@ -1,0 +1,20 @@
+.buttons{
+	text-align: center;
+	
+	font-family: cursive;
+}
+#player2{
+	float: right;
+}
+.jumbotron{
+	background-image: url("../img/pig.jpg");
+}
+#background{
+	background-image: url("../img/dice2.jpg");
+}
+#header{
+	color: blue;
+}
+body{
+	background-image: url(../img/dice2.jpg);
+}
