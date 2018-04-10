@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PIG-DICE
 A website based on engaging people especially when they are bored.
 #### By **Canssidle**
@@ -21,3 +22,6 @@ If any complications occur email me at canssidlewairimu@gmail.com
 *MIT*
 Copyright (c) {2018} *Canssidle**
   
+=======
+# pig-dice
+>>>>>>> d17f4b74bfbcfbb929d70733fb7a4ee4d06c9018
